@@ -1,7 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20Wolrd!&fontSize=60&desc=Oneyoung_E's%20git&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=03C75A&height=150&section=header&descAlignY=60&descSize=20)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpwoei0123)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpwoei0123)](https://solved.ac/백준아이디/)
 
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=100&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 <!--
 **qpwoei0123/qpwoei0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
