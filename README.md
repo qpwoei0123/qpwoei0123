@@ -1,6 +1,17 @@
-<div align="center"> 
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&color=03C75A&height=100&section=header)
+<div > 
+
+<div>
+
+### 🙋‍♂️ About me
+
+- 안녕하세요! 프론트 엔드 개발자 한원영 입니다.
+- [노션](https://qpwoei0123.notion.site/qpwoei0123/b622776258194a41ba070b9a3c210f05)을 통해서 꾸준한 학습을 기록하고 있습니다.
+- 새로운 도전괴 발전을 위한 논쟁에 거리낌이 없습니다.
+- 커뮤니케이션을 즐기며, 동료들에게 구현능력이 좋다고 평가받는 개발자 입니다.
+- 항상 사용자의 입장으로 UI/UX에 대해서 고민하고 있습니다.
+- 리액트에 능숙하고 현재는 넥스트로 SSR구현에 빠져있습니다🔨
+
+------------------
 
 ###  📚FrontEnd Stack📚
 
@@ -8,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
@@ -17,31 +29,13 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-###  ⚙️Others⚙️
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-###  ✏️Study Blog
-https://qpwoei0123.notion.site/qpwoei0123/b622776258194a41ba070b9a3c210f05
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qpwoei0123)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpwoei0123)](https://solved.ac/백준아이디/)
 
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=100&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 
 </div>
+
+
+
