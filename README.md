@@ -5,8 +5,8 @@
 - 👋 안녕하세요! 프론트 엔드 개발자 <b>한원영</b>입니다. 
 - 📝 [노션](https://qpwoei0123.notion.site/qpwoei0123/b622776258194a41ba070b9a3c210f05)을 통해서 <b>꾸준한 학습</b>을 기록하고 있습니다.
 - 👍 커뮤니케이션을 즐기며, 동료들에게 <b>구현 능력</b>이 좋다고 평가받는 개발자입니다.
-- 🤔 항상 사용자의 입장으로 <b>UI/UX</b>에 대해서 고민하고 있습니다.
-- 🔨 <b>리액트</b>에 능숙하고 현재는 <b>넥스트</b>로 SSR구현에 빠져있습니다.
+- 🤔 항상 사용자의 입장으로 [UI/UX](https://www.notion.so/qpwoei0123/UI-UX-a542582bc6c547cea444afb1d0c13fda?pvs=4)에 대한 고민을 즐겨합니다.
+- 🔨 [리액트](https://www.notion.so/qpwoei0123/de8607e6f2c24de59ff01c090c999f63?pvs=4)에 능숙하고 현재는 [넥스트](https://www.notion.so/qpwoei0123/api-3087d4e0beb2485f92e3ec433bef44c3?pvs=4)로 SSR구현에 빠져있습니다.
 
 ##  FrontEnd Stack
 
