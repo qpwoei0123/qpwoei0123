@@ -35,4 +35,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=100&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:B6E3FF,100:46c9df&section=footer&text=⛴️&fontAlign=97&height=100)
