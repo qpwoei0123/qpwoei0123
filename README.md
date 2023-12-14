@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=100&section=header&text%2&fontSize=50)
+
 
 ##  About me 
 
