@@ -1,19 +1,14 @@
-<div > 
+![header](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=100&section=header&text%2&fontSize=50)
 
-<div>
+##  About me 
 
-### 🙋‍♂️ About me
+- 👋 안녕하세요! 프론트 엔드 개발자 <b>한원영</b>입니다.
+- 📝 [노션](https://qpwoei0123.notion.site/qpwoei0123/b622776258194a41ba070b9a3c210f05)을 통해서 <b>꾸준한 학습</b>을 기록하고 있습니다.
+- 👍 커뮤니케이션을 즐기며, 동료들에게 <b>구현 능력</b>이 좋다고 평가받는 개발자입니다.
+- 🤔 항상 사용자의 입장으로 <b>UI/UX</b>에 대해서 고민하고 있습니다.
+- 🔨 <b>리액트</b>에 능숙하고 현재는 <b>넥스트</b>로 SSR구현에 빠져있습니다 
 
-- 안녕하세요! 프론트 엔드 개발자 한원영 입니다.
-- [노션](https://qpwoei0123.notion.site/qpwoei0123/b622776258194a41ba070b9a3c210f05)을 통해서 꾸준한 학습을 기록하고 있습니다.
-- 새로운 도전괴 발전을 위한 논쟁에 거리낌이 없습니다.
-- 커뮤니케이션을 즐기며, 동료들에게 구현능력이 좋다고 평가받는 개발자 입니다.
-- 항상 사용자의 입장으로 UI/UX에 대해서 고민하고 있습니다.
-- 리액트에 능숙하고 현재는 넥스트로 SSR구현에 빠져있습니다🔨
-
-------------------
-
-###  📚FrontEnd Stack📚
+##  FrontEnd Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,13 +24,15 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+## Other Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=100&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
-
-</div>
-
-
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=100&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
