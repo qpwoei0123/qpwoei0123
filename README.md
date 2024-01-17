@@ -6,7 +6,7 @@
 - 📝 [노션](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)을 통해서 <b>꾸준한 학습</b>을 기록하고 있습니다.
 - 👍 커뮤니케이션을 즐기며, 동료들에게 [구현 능력](https://qpwoei0123.notion.site/8b37057eb85c4888a02041f9ad262bdb)이 좋다고 평가받는 개발자입니다.
 - 🤔 항상 사용자의 입장으로 [UI/UX](https://qpwoei0123.notion.site/UI-UX-b1c73840b77144928f1d51648c179a38?pvs=4)에 대한 고민을 즐겨합니다.
-- 🔨 [리액트](https://www.notion.so/qpwoei0123/de8607e6f2c24de59ff01c090c999f63?pvs=4)에 능숙하고 현재 [넥스트](https://github.com/qpwoei0123/weather-app)를 사용 중입니다.
+- 🔨 [리액트](https://github.com/qpwoei0123/CozyStates)에 능숙하고 현재 [넥스트](https://github.com/qpwoei0123/weather-app)를 사용 중입니다.
 
 ##  FrontEnd Stack
 
