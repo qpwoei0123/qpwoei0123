@@ -2,7 +2,7 @@
 
 ##  About me 
 
-- 👋 안녕하세요! 프론트 엔드 개발자 [한원영](https://www.notion.so/qpwoei0123/d2d31acdc1ea46c181c2300a91ed4895?pvs=4)입니다. 
+- 👋 안녕하세요! 프론트 엔드 개발자 [한원영](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)입니다. 
 - 📝 [노션](https://qpwoei0123.notion.site/qpwoei0123/b622776258194a41ba070b9a3c210f05)을 통해서 <b>꾸준한 학습</b>을 기록하고 있습니다.
 - 👍 커뮤니케이션을 즐기며, 동료들에게 <b>구현 능력</b>이 좋다고 평가받는 개발자입니다.
 - 🤔 항상 사용자의 입장으로 [UI/UX](https://www.notion.so/qpwoei0123/UI-UX-a542582bc6c547cea444afb1d0c13fda?pvs=4)에 대한 고민을 즐겨합니다.
