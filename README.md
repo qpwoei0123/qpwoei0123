@@ -1,8 +1,9 @@
-##  [사용자 경험](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" />을 고민하는  <br/>   프론트엔드 개발자 한원영<image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Fire.png' width="2.3%" />  입니다.
+
+#  [사용자 경험](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium-Light Skin Tone" width="2.35%" />을 <br/> [고민](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<image src='https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Thinking%20Face.png?raw=true' width="2.3%" />하는  <br/> 프론트엔드 개발자 [한원영](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<image src='https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Hot%20Beverage.png?raw=true' width="2.3%" />입니다.
 
 <br/>
 
-### Language <image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png' width="2.3%" /> 
+### <image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png' width="2.3%" /> Language 
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,7 +12,7 @@
 
 <br/>
 
-### Technical Skills & Technologies <image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png' width="2.3%" /> 
+### <image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png' width="2.3%" /> Technical Skills & Technologies 
 
 
 - Front-end frameworks & libraries
@@ -33,7 +34,7 @@
 
 <br/>
 
-### Collaborations <image src='https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true' width="2.3%" /> 
+### <image src='https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png?raw=true' width="2.3%" /> Collaborations 
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-yellow.svg?style=for-the-badge&logo=figma&logoColor=white)
