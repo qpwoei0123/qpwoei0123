@@ -40,5 +40,5 @@
   ![Figma](https://img.shields.io/badge/figma-yellow.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-grey.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
-
+<!-- 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:46c9df,50:B6E3FF&section=footer&text=🏝️&fontAlign=95&height=100)
