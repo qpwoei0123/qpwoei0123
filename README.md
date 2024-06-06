@@ -1,4 +1,4 @@
-# 안정성<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" alt="Turtle" width="35" />과 즐거움<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="30"/>을 추구하는 <br>프론트엔드 엔지니어 [한원영](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/>입니다.
+# 재미있는<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="30"/> 것을 만드는 걸 좋아하는 [FE개발자](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/> 입니다.
 
 <br/>
 
