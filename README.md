@@ -1,4 +1,4 @@
-## 인터렉션 좋아하는 [FE개발자](https://qpwoei0123.notion.site/1aa3453374c44410810e4793011d0f52?pvs=74)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/> 입니다.
+## 인터렉션 좋아하는 [FE개발자](https://qpwoei0123.github.io/)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/> 입니다.
 
 <br/>
 
