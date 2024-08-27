@@ -1,6 +1,6 @@
 ## 인터렉션 좋아하는 [FE개발자](https://qpwoei0123.github.io/)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/> 한원영 입니다.
 
-### 사용자와 상호작용하는 결과물을 만드는 것을 좋아해서<image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png' width="2.3%" /> 꾸준히 프론트엔드 개발을 하고 있습니다.
+### 사용자와 상호작용하는 결과물을 만드는 것을 좋아해서<image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png' width="2.3%" /> 프론트엔드 개발을 하고 있습니다.
 
 ### 요즘에는 인터렉션과 성능개선에 관심이<image src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png' width="2.3%" /> 많습니다.
 <br/>
