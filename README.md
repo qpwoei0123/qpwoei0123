@@ -2,12 +2,6 @@
 
 **사용자와 상호작용하는 결과물을 만드는 것을 즐겨 프론트엔드 개발에 몰두하고 있습니다.**
 
-**최근에는 인터랙션과 성능 개선에 깊은 관심을 두고 있습니다.**
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=qpwoei0123&theme=blueberry-duo&locale=ko&date_format=%5BY.%5Dn.j&card_height=200&dates=6688FF&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:46c9df,50:B6E3FF&section=footer&text=🏝️&fontAlign=95&height=100)
 <!-- 
 
