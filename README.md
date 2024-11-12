@@ -1,7 +1,5 @@
 ## 인터렉션 좋아하는 [FE개발자](https://qpwoei0123.github.io/)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/> 한원영 입니다.
 
-**사용자와 상호작용하는 결과물을 만드는 것을 즐겨 프론트엔드 개발에 몰두하고 있습니다.**
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:46c9df,50:B6E3FF&section=footer&text=🏝️&fontAlign=95&height=100)
 <!-- 
 
