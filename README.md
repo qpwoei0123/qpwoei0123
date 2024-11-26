@@ -1,4 +1,4 @@
-## 인터렉션 좋아하는 [FE개발자](https://qpwoei0123.github.io/)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/> 한원영 입니다.
+## 인터렉션 좋아하는 [FE개발자](https://qpwoei0123.github.io/)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40"/>입니다.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:46c9df,50:B6E3FF&section=footer&text=🏝️&fontAlign=95&height=100)
 <!-- 
