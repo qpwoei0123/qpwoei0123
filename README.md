@@ -1,16 +1,14 @@
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face" height="50" />
-
-<br/>
+<img width="800" height="300" alt="ascii-art (1)" src="https://github.com/user-attachments/assets/cc88123e-0b53-45aa-86c4-18163a99fa6e" />
 
 ### [ME.🧑‍💻.github.io](https://qpwoei0123.github.io/)
 
-<br/>
+
+<img width="800" height="400" alt="ascii-art (2)" src="https://github.com/user-attachments/assets/53e22341-f17d-42e9-a695-b58fa507b626" />
+
+
+<!-- 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:46c9df,50:B6E3FF&section=footer&text=🏝️&fontAlign=95&height=100)
-<!-- 
 
 ### "사용자와 상호작용하는 결과물을 만드는 것을 좋아하여 꾸준히 프론트엔드 개발을 하고 있습니다"
 
