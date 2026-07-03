@@ -3,9 +3,6 @@
 ### [ME.🧑‍💻.github.io](https://qpwoei0123.github.io/)
 
 
-<img width="800" height="400" alt="ascii-art (2)" src="https://github.com/user-attachments/assets/53e22341-f17d-42e9-a695-b58fa507b626" />
-
-
 <!-- 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:46c9df,50:B6E3FF&section=footer&text=🏝️&fontAlign=95&height=100)
